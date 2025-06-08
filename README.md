@@ -28,10 +28,3 @@ This project is a **simple and interactive To-Do List Web App** that helps users
 - JavaScript (for DOM manipulation and interactivity)
 
 ---
-
-## 📸 Preview  
-
-> *(You can add a screenshot by uploading it to GitHub or using an image URL below)*
-
-```markdown
-![To-Do Web App Preview](URL-to-your-screenshot)
